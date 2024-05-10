@@ -8,7 +8,7 @@ A responsive, clean and simple [Hexo](http://hexo.io) theme for a personal websi
 
 ## 改动汇总
 
-- **2024.5.10** : 添加对 Waline 评论系统的支持
+- **2024.5.10** : 添加对 Waline 评论系统的支持；删除了分享按钮；
 
 
 ## Summary
