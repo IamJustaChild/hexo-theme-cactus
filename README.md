@@ -6,6 +6,11 @@ A responsive, clean and simple [Hexo](http://hexo.io) theme for a personal websi
 
 ![screenshot](https://user-images.githubusercontent.com/2175271/137625287-24a4ac77-fbc9-4c99-a4cd-90455d93d13c.png)
 
+## 改动汇总
+
+- **2024.5.10** : 添加对 Waline 评论系统的支持
+
+
 ## Summary
 
 - [General](#general)

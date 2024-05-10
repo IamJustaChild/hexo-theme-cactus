@@ -165,7 +165,7 @@ open_graph:
 
 # Enable MathJax support for Latex
 mathjax:
-  enabled: false
+  enabled: true
 
 # Fill in your Disqus Comments Shortname to enable Disqus comments.
 disqus:
@@ -179,6 +179,11 @@ utterances:
   issue_term: pathname
   label: Comment
   theme: github-dark
+
+# Enable Waline comments
+waline:
+  serverURL: https://walinejs.comment.lithub.cc
+  enabled: true
 
 # Fill in your Google Analytics tracking ID to enable Google Analytics.
 google_analytics:
